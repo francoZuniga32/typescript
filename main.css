@@ -1,0 +1,8 @@
+.menu{
+    position: fixed;
+}
+
+.container-fluid{
+    display: block;
+    margin-top: 10%;
+}
